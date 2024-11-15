@@ -1,3 +1,6 @@
+# https://x-team.com/blog/set-up-rabbitmq-with-docker-compose
+# Use guest as username and password.
+
 version: "3.2"
 services:
   rabbitmq:
